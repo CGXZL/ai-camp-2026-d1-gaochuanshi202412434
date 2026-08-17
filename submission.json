@@ -10,6 +10,6 @@
   "report": "report.md",
   "presentation": "presentation.pptx",
   "presentation_minutes": 3,
-  "student_confirmed_no_secrets": false
+  "student_confirmed_no_secrets": true
 }
 
