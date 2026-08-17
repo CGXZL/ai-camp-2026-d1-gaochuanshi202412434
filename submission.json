@@ -1,12 +1,12 @@
 {
-  "milestone": "day-00",
-  "team": "填写姓名或组名",
+  "milestone": "day-01",
+  "team": "懒得起名",
   "members": [
-    "填写成员姓名"
+    "高川石","潘锐","徐梓朔","陈治名"
   ],
-  "repository_url": "填写 GitHub 仓库 URL",
-  "run_command": "填写 README 中的精确主命令",
-  "test_command": "填写精确测试命令",
+  "repository_url": "https://github.com/CGXZL/ai-camp-2026-d1-gaochuanshi202412434",
+  "run_command": "python train.py",
+  "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
   "presentation": "presentation.pptx",
   "presentation_minutes": 3,
